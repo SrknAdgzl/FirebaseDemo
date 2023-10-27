@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBN3wVSM6nCN-GG6MsB2uwY9lTbucYJk00</string>
+	<key>GCM_SENDER_ID</key>
+	<string>726799268426</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.limbikanimasyon.FirebaseDemo</string>
+	<key>PROJECT_ID</key>
+	<string>cwc-demo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cwc-demo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:726799268426:ios:d74be129fa083ecfc944b3</string>
+</dict>
+</plist>
